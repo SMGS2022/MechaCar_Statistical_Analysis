@@ -28,7 +28,7 @@ In running the linear regression on just the vehicle length and the ground clear
 
 ## Zero / Non-Zero Slopes
 
-![D1c.png](MechaCar/Images/D1c.png)
+![D1c1.png](MechaCar/Images/D1c1.png)
 
 Each variable used results in the linear model having ALL Non-Zero slopes
 
